@@ -3,10 +3,10 @@
 A responsive personal resume website created using **HTML** and **CSS**.  
 This project highlights my education, skills, achievements, and personal projects in a clean, professional layout.
 
-## 🌐 Live Demo
+## Live Demo
 [View Website](https://faryal-resume-clone.netlify.app/)
 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML5  
 - CSS3 (Flexbox & Grid)
 
